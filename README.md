@@ -45,7 +45,7 @@ python run.py
 
 --ent_init default='random', choices=['random', 'name']
 
--skip_conn default='none', choices=['none', 'highway', 'concatall', 'concat0andl', 'residual']
+--skip_conn default='none', choices=['none', 'highway', 'concatall', 'concat0andl', 'residual']
 
 --activation default='F.elu', choices=['none', 'F.elu'])
 
