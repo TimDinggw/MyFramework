@@ -1,7 +1,6 @@
 # MyFramework
 
-以 [EAkit](https://github.com/THU-KEG/EAkit) 为基础，研究基于图神经网络的知识图谱对齐
-需要从 [HGCN](https://github.com/StephanieWyt/HGCN-JE-JR/) 获取 [数据集](https://drive.google.com/drive/folders/1mfaeLXdqFnOHLYBXiTHWI7MLwtfTgPYQ) 放至 ./data/ 下
+以 [EAkit](https://github.com/THU-KEG/EAkit) 为基础，研究基于图神经网络的知识图谱对齐，需要从 [HGCN](https://github.com/StephanieWyt/HGCN-JE-JR/) 获取 [数据集](https://drive.google.com/drive/folders/1mfaeLXdqFnOHLYBXiTHWI7MLwtfTgPYQ) 放至 ./data/ 下
 
 ## 环境
 
